@@ -1,2 +1,7 @@
 # CS255-System-Analysis-and-Design
-Here are the projects created for SNHU course CS255 System Analysis and Design
+
+The DriverPass project focused on designing a system for a client who wanted to help students better prepare for their driving tests. The client needed a web-based system that would allow customers to create accounts, schedule driving lessons, take online practice tests, and make payments. The system also needed features for staff, such as managing accounts and updating test materials to match DMV requirements. Overall, the goal was to design something practical that would support both the customers and the business side of the company.
+
+One thing I think I did well in this project was organizing the client’s requirements into clear diagrams and documentation. Creating use case, activity, and sequence diagrams helped me better understand how each part of the system should work together. If I could go back and revise something, I would probably add more detail to some of the diagrams, especially around error handling and edge cases. Thinking more about what could go wrong would make the design stronger and more realistic.
+
+When designing the system, I tried to focus on what the user would experience. Features like easy scheduling, secure login, and clear test feedback are important because they directly affect how people interact with the system. This project helped me see how important it is to think beyond just “making it work” and instead consider usability and security. In the future, I plan to approach software design by carefully reviewing requirements, planning with diagrams before jumping into development, and considering both the user’s needs and potential risks from the start.
